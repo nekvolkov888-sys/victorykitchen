@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.wolfx.mykitchen",
+      "sha256_cert_fingerprints": [
+        "1F:1F:52:7A:7D:AB:D0:26:DC:99:F1:56:08:48:5E:4D:85:3B:D5:29:7C:E5:AD:D6:DE:DE:A2:8D:95:CB:85:46"
+      ]
+    }
+  }
+]
